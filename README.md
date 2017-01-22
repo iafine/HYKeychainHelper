@@ -7,6 +7,8 @@
 
 HYKeychainHelper is a simple tool for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on iOS.
 
+[**中文说明**](Docs/README_cn.md)
+
 ## Requirements
 
 - Swift 3
